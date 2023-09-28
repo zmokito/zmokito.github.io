@@ -4,7 +4,7 @@ let zBereich;
 function setup() {
   zBereich = createCanvas(windowWidth, windowHeight);
   zBereich.position(0,0);
-  zBereich.style('z-Index','-1');
+  zBereich.style('z-index','-1');
 }
 
 
